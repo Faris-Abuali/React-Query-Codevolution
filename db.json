@@ -1,0 +1,143 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman dark Knight",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "The Flash",
+      "alterEgo": "Barry Allen",
+      "id": 4
+    },
+    {
+      "name": "Tester",
+      "alterEgo": "Richard Allen",
+      "id": 5
+    },
+    {
+      "name": "Michael",
+      "alterEgo": "Michael Angelo",
+      "id": 6
+    },
+    {
+      "name": "Inva",
+      "alterEgo": "Inva Pedro",
+      "id": 7
+    },
+    {
+      "name": "Inva2",
+      "alterEgo": "Inva Pedro2",
+      "id": 8
+    },
+    {
+      "name": "Catwoman",
+      "alterEgo": "Selena Kyle",
+      "id": 9
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": "Arthur Curry",
+      "id": 10
+    },
+    {
+      "name": "Interceptorss",
+      "alterEgo": "Interceptorss",
+      "id": 11
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "vishwas@example.com",
+      "channelId": "codevolution"
+    },
+    {
+      "id": "faris@foothillsolutions.com",
+      "channelId": "faris-abuali"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    },
+    {
+      "id": "faris-abuali",
+      "courses": [
+        "react",
+        "redux",
+        "vite"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    },
+    {
+      "id": 9,
+      "label": "Tangerine"
+    },
+    {
+      "id": 10,
+      "label": "Lime"
+    }
+  ]
+}
